@@ -1,6 +1,6 @@
 # :computer: MyFirstNEXTjsj
 
-Learning Starter Course from NEXTjs page.
+Learning Starter Course from NEXTjs page!!!
 
 
 
